@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.boshjerns.art	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667572185|rRFvgD3a7j0y
+www.boshjerns.art	TRUE	/	FALSE	1999999999	SameSite	None
+www.boshjerns.art	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=euw3_g
+

@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Nov 2022 10:29:40 at https://www.boshjerns.art/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.boshjerns.art/ -O1 "C:\My Web Sites\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/decodeURIComponent(e (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/feed.xml (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/version/ (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/99a6a99f.min.css (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/08241ed1.chunk.min.js (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/c58e6b29.chunk.min.js (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/rb_wixui.thunderbolt~bootstrap-classic.e869e806.chunk.min.js (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/rb_wixui.thunderbolt~bootstrap.8a86afda.chunk.min.css (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/rb_wixui.thunderbolt~bootstrap.08241ed1.chunk.min.js (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://www.boshjerns.art/)
+10:30:38	Error: 	"Not Found" (404) at link https://www.boshjerns.art/rb_wixui.thunderbolt~bootstrap-responsive.c58e6b29.chunk.min.js (from https://www.boshjerns.art/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 29 seconds : 84 links scanned, 72 files written (7552824 bytes overall) [5748001 bytes received at 64584 bytes/sec], 2602474 bytes transferred using HTTP compression in 29 files, ratio 26%
+(11 errors, 0 warnings, 0 messages)
